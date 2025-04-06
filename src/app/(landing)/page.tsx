@@ -222,7 +222,7 @@ export default function Home() {
                         <p className="text-sm text-gray-500 mt-2">2024.09 (1인 개인 프로젝트)</p>
                         <p className="font-bold mt-2">Notion API/DB와 연동하여 개발한 개인 블로그</p>
                     </div> */}
-                    <Card className="w-full h-[400px] shadow-lg rounded-lg" >
+                    {/* <Card className="w-full h-[400px] shadow-lg rounded-lg" >
                         <CardContent className="p-0 m-0">
                             <Link href={""} className="text-blue-500 text-2xl">
                                 <div className="relative w-auto h-[300px] m-[20px] ">
@@ -235,7 +235,7 @@ export default function Home() {
                                 </div>
                             </Link>
                         </CardContent>
-                    </Card>
+                    </Card> */}
                      <Card className="w-full h-[400px] shadow-lg rounded-lg" >
                         <CardContent className="p-0 m-0">
                             <Link href={""} className="text-blue-500 text-2xl">
